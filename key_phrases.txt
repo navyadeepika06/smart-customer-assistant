@@ -1,0 +1,4 @@
+{
+  "Category": "Technical Issue",
+  "Key Phrases": ["SIM card", "not functioning", "assistance required", "technical support"]
+}

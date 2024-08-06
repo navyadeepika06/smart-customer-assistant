@@ -1,0 +1,7 @@
+{
+  "Inquiry": "my sim is not working. can you help me with this?",
+  "Category": "Technical Issue",
+  "Key Phrases": ["SIM card", "not functioning", "assistance required", "technical support"],
+  "Sentiment Tag": "Negative",
+  "Sentiment Score": 0.65
+}
